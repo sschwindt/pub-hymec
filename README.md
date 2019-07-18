@@ -43,8 +43,6 @@ LaTex / Bibtex Users:
 
 ## Data structure and codes
 
-The data used in this paper incorporate the experiments used for the analyses in the paper ["Effects of lateral and vertical constrictions on flow in rough steep channels with bedload"](https://github.com/sschwindt/pub-constriction-bedload).
-
 The **`RawData/`** folder contains the raw data from the ultrasonic probe loggers, pump discharge logger, flow velocity (where applicable), sediment supply/outflow loggers, and constriction geometry. The `RawData/ExperimentOverview.xlsx` workbook contains overview tables of the conducted experiments.
 
 The **`ProcessedData/`** folder contains data that where extracted from the `RawData/` folder. *Matlab* / *Octave* (`.m`) codes in that folder were used for extracting / converting the raw data.
