@@ -28,7 +28,7 @@ LaTex / Bibtex Users:
   journal   = {Geomorphology},
   year      = {2017},
   volume    = {295},
-  number    = {{upplement C},
+  number    = {Supplement C},
   pages     = {467-479},
   issn      = {0169-555X},
   doi       = {10.1016/j.geomorph.2017.07.020},
