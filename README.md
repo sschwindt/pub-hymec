@@ -2,8 +2,6 @@ Folder and file summary:
 
  - `RawData/`
  - `ProcessedData/`
- - `ApplicationExample_Codes/`
- - `MountainRiverInventory.xlsx`
 
 ***
 
